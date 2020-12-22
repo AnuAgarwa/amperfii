@@ -3,7 +3,7 @@
 baseURL = "http://anutry.com.s3-website.us-east-2.amazonaws.com/"
 title = "Amperfii Knowledge Base"
 theme = "godocs-hugo-1"
-# disable language
+# disable lang
 disableLanguages = [] # desable language from here
 
 
