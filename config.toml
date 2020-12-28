@@ -163,34 +163,7 @@ content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam <br
   link = "contact"
 
 
-################################### French language #####################################
-#[Languages.fr]
-#languageName = "Fr"
-#languageCode = "fr-fr"
-#weight = 2
-#home = "Accueil"
-# copyright
- copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-# banner
-[Languages.fr.banner]
-title = "Documentation Theme By Themefisher Team"
-subtitle = "Lorem ipsum dolor amet, consetetur sadiffspscing elitr, diam nonumy invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua At."
-image = "images/banner_color.jpg"
-
-# call to action
-[Languages.fr.call_to_action]
-enable = true
-title = "Still Didn't Find Your Answer?"
-image = "images/cta-illustration.jpg"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam <br> nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-
-  # call to action button
-  [Languages.fr.call_to_action.button]
-  enable = "true"
-  label = "Submit a ticket"
-  link = "contact"
-
+###################################
 [deployment]
 # By default, files are uploaded in an arbitrary order.
 # Files that match the regular expressions in the "Order" list
